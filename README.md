@@ -1,4 +1,4 @@
-# Quality Assurance Engineer – Test Automation Exercise 1
+## Quality Assurance Engineer – Test Automation Exercise 1
 
 ### Tools used:  Cypress
 
@@ -15,7 +15,7 @@ npm init
 node_modules\.bin\cypress open
 
 4.Click on the filename "test.js" to start executing the test.
- 
+
 5. On clicking “test.js", Cypress application opens Mashreq Bank webiste in chrome.
 
 6.There are two indicators namely pass and fail displayed on the screen.On succesfull completion of all test cases, the Pass indicator will display the number of test cases executed correctly. If any test cases failed, then it will be captured in the Fail indicator. 
